@@ -1,4 +1,4 @@
-# .github
+# Readme First
 Kita tertib dokumentasi yuk guys!
 
 - Tiap Project simpan source code disini;
